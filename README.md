@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Erijl</h1>
-<h3 align="center">A passionate backend developer from Germany</h3>
+<h1 align="center">I'm Erijl</h1>
+<h3 align="center">A passionate backend developer from Germany who hates emojis</h3>
 
-- 🔭 I’m currently working on [My career](https://erijl.de)
+My Projects:
 
-- 🌱 I’m currently learning **To Design!**
+**Betterautostart**
+https://betterautostart.com
 
-- 🤝 I’m looking for help with [Better Autostart](https://betterautostart.com)
+**Lieferandometer**
+https://lieferandometer.de
 
-- 👨‍💻 All of my projects are available at [https://erijl.de](https://erijl.de)
 
-- 💬 Ask me about **Java, C#, SQL, Javascript**
+You can find more about me & my projects here soon: [https://erijl.de](https://erijl.de)
 
-- 📄 Know about my experiences [https://erijl.de](https://erijl.de)
 
 <p align="left">
 </p>
