@@ -6,9 +6,6 @@ My Projects:
 **Betterautostart**
 https://betterautostart.com
 
-**Lieferandometer**
-https://lieferandometer.de
-
 
 You can find more about me & my projects here soon: [https://erijl.de](https://erijl.de)
 
