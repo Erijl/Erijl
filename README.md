@@ -31,7 +31,7 @@ Problem solver. Developer. Data explorer.
 
 <br>
 <br>
-<br>
+
 <div align="center">
   <h4>Always open to new challenges and collaborations.</h4>
 </div>
