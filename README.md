@@ -4,7 +4,7 @@
 Problem solver. Developer. Data explorer.
 </h3>
 <div align="center">
-  <a href="erijl.de" _target="blank">Website</a> |
+  <a href="https://erijl.de" _target="blank">Website</a> |
   <a href="https://github.com/erijl" _target="blank">GitHub</a> |
   <a href="https://linkedin.com/in/justusmau" _target="blank">LinkedIn</a> 
 </div>
