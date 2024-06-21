@@ -6,7 +6,7 @@ Problem solver. Developer. Data explorer.
 <div align="center">
   <a href="erijl.de" _target="blank">Website</a> |
   <a href="https://github.com/erijl" _target="blank">GitHub</a> |
-  <a href="linkedin.com/in/justusmau" _target="blank">LinkedIn</a> 
+  <a href="https://linkedin.com/in/justusmau" _target="blank">LinkedIn</a> 
 </div>
 
 
@@ -14,11 +14,11 @@ Problem solver. Developer. Data explorer.
 
 **Recent Projects:**
 
-* Flight Visualizer | [flight-visualizer.com](flight-visualizer.com) | Interactive visualization of Lufthansa flight routes
+* Flight Visualizer | [flight-visualizer.com](https://flight-visualizer.com) | Interactive visualization of Lufthansa flight routes
  
-* Wahlentwicklung.de | [wahlentwicklung.de](wahlentwicklung.de) | Minimalistic German election data exploration app
+* Wahlentwicklung.de | [wahlentwicklung.de](https://wahlentwicklung.de) | Minimalistic German election data exploration app
  
-* Betterautostart | [betterautostart.com](betterautostart.com) | Customizable Windows startup program manager (Deprecated)
+* Betterautostart | [betterautostart.com](https://betterautostart.com) | Customizable Windows startup program manager (Deprecated)
 
 ---
 
