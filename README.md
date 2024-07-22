@@ -1,7 +1,7 @@
-<h1 align="center"> Justus – Software Engineer </h1>
+<h1 align="center"> Justus M. – Software Engineer </h1>
 
 <h3 align="center">
-Problem solver. Developer. Data explorer.
+Problem solver. Software enthusiast. Data explorer.
 </h3>
 <div align="center">
   <a href="https://erijl.de" _target="blank">Website</a> |
@@ -11,25 +11,10 @@ Problem solver. Developer. Data explorer.
 
 
 ---
+<div align="center">
+  <b>Genuinely Passionate About</b> Solving Complex Problems & Learning!
+</div>
 
-**Recent Projects:**
-
-* Flight Visualizer | [flight-visualizer.com](https://flight-visualizer.com) | Interactive visualization of Lufthansa flight routes
- 
-* Wahlentwicklung.de | [wahlentwicklung.de](https://wahlentwicklung.de) | Minimalistic German election data exploration app
- 
-* Betterautostart | [betterautostart.com](https://betterautostart.com) | Customizable Windows startup program manager (Deprecated)
-
----
-
-**Passionate About:**
-
-* Solving Complex Problems
-* Learning
-* Backend development
-* Data analysis & visualization
-
-<br>
 <br>
 
 <div align="center">
